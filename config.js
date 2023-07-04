@@ -22,7 +22,7 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "CK Queen Anya" 
+global.botname = "𝘾𝙆 𝙌𝙪𝙚𝙚𝙣 𝘼𝙣𝙮𝙖 𝘽𝙤𝙩" 
 global.author = "Enter Author Name Here"  
 global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
 global.myweb = "Enter Your Any Website Profile Link Here"
